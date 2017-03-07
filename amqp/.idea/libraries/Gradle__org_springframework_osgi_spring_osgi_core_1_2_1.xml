@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.osgi:spring-osgi-core:1.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.osgi/spring-osgi-core/1.2.1/e5666dfac49c4b0488ef3f53e6d9232783697817/spring-osgi-core-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.osgi/spring-osgi-core/1.2.1/4fa77158f9ecd189906bfd06508055444887bc8b/spring-osgi-core-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

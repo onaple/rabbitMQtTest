@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="amqp:test" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output-test url="file://$MODULE_DIR$/../../build/classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="amqp_main" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-context:4.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.amqp:spring-amqp:1.0.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.amqp:spring-rabbit:1.0.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: com.h2database:h2:1.4.182" level="project" />
+    <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.activemq:activemq-spring:5.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.xbean:xbean-spring:3.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-test:4.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-aop:4.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-beans:4.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-core:4.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-expression:4.0.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: com.rabbitmq:amqp-client:2.5.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-tx:3.0.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.6.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.activemq:activemq-core:5.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.activemq:activemq-pool:5.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.geronimo.specs:geronimo-jta_1.0.1B_spec:1.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: commons-pool:commons-pool:1.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.osgi:spring-osgi-core:1.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.11" level="project" />
+    <orderEntry type="library" name="Gradle: aopalliance:aopalliance:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: commons-io:commons-io:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.activemq:kahadb:5.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.activemq.protobuf:activemq-protobuf:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.fusesource.mqtt-client:mqtt-client:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec:1.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: commons-net:commons-net:3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jasypt:jasypt:1.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.osgi:spring-osgi-io:1.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.fusesource.hawtdispatch:hawtdispatch-transport:1.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.fusesource.hawtbuf:hawtbuf:1.9" level="project" />
+    <orderEntry type="library" name="Gradle: org.fusesource.hawtdispatch:hawtdispatch:1.11" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.1.3" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="amqp_main" />
+</module>
